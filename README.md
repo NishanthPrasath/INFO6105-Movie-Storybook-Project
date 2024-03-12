@@ -1,6 +1,6 @@
 # Movie Storybook Project
 
-This repository contains the files for my Movie Storybook project, completed as part of a course assignment. a project that involved creating a storybook for a potential movie. The storybook is comprised of a series of images, taken by the team members and converted into drawings using Python. The images are stitched together in Python to create a PDF storybook that includes text.
+This repository contains the files for my Movie Storybook project, completed as part of a course assignment. A project that involved creating a storybook for a potential movie. The storybook is comprised of a series of images, taken by the team members and converted into drawings using Python. The images are stitched together in Python to create a PDF storybook that includes text.
 
 ## Project Overview
 
